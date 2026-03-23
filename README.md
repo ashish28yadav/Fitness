@@ -1,11 +1,4 @@
 # Fitness App - Modern Dashboard
-
-## 🎬 Demo Video
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ashish28yadav/Fitness/master/assets/FitnessDemo-ezgif.com-video-to-gif-converter.gif" width="320"/>
-</p>
-
 ---
 
 ## 📸 Screenshots
