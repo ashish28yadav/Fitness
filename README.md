@@ -3,10 +3,8 @@
 ## 🎬 Demo Video
 
 <p align="center">
-  <video src="https://github.com/user-attachments/assets/YOUR_VIDEO_ID_HERE" width="320" controls autoplay loop muted></video>
+  <img src="https://raw.githubusercontent.com/ashish28yadav/Fitness/master/assets/FitnessDemo-ezgif.com-video-to-gif-converter.gif" width="320"/>
 </p>
-
-> 💡 Tip: Drag & drop your video directly into README to auto-generate a working preview.
 
 ---
 
@@ -65,3 +63,5 @@ A premium, highly-animated fitness tracking dashboard built with **Jetpack Compo
 ---
 
 ## 📝 License
+Copyright 2024
+Licensed under the MIT License.
