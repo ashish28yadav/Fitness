@@ -5,6 +5,7 @@
 
 ### 📊 Dashboard & Details
 <p align="center">
+  <img width="2206" height="1739" alt="Fitness" src="https://github.com/user-attachments/assets/30ec6204-7f96-4f59-8972-7707b12683da" />
   <img src="https://github.com/user-attachments/assets/34c83b7a-ad17-4fbc-be61-4872c21ba1d2" width="250"/>
   <img src="https://github.com/user-attachments/assets/9ef129e7-414c-41d3-86f8-9c1638a67f73" width="250"/>
 </p>
